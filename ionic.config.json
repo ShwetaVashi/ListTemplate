@@ -1,0 +1,7 @@
+{
+  "name": "fivthapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
